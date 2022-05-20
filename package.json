@@ -23,7 +23,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@avadex-libs/avadex-swap-core": "^0.1.0",
+    "@avadex-libs/avadex-swap-core": "https://github.com/chimpydev/avadex-swap-core-main",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
