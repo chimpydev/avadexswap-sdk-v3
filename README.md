@@ -1,7 +1,7 @@
-# Chimpyswap SDK
+# Avadex SDK
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Actions Status](https://github.com/chimpyswap/chimpyswap-sdk/workflows/CI/badge.svg)](https://github.com/chimpyswap/chimpyswap-sdk)
+[![Actions Status](https://github.com/avadex/avadex-sdk/workflows/CI/badge.svg)](https://github.com/avadex/avadex-sdk)
 
 ## Running tests
 
@@ -10,13 +10,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/chimpyswap/chimpyswap-sdk.git
+git clone https://github.com/avadex/avadex-sdk.git
 ```
 
-Move into the chimpyswap-sdk working directory
+Move into the avadex-sdk working directory
 
 ```sh
-cd chimpyswap-sdk/
+cd avadex-sdk/
 ```
 
 Install dependencies

@@ -1,16 +1,16 @@
 {
-  "name": "@chimpyswap-libs/sdk-v3",
+  "name": "@avadex-libs/sdk-v3",
   "license": "MIT",
   "version": "0.1.0",
-  "description": "🛠 An SDK for building applications on top of chimpyswap.",
+  "description": "🛠 An SDK for building applications on top of avadex.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/chimpyswap/chimpyswap-sdk.git",
+  "repository": "https://github.com/avadex/avadex-sdk.git",
   "keywords": [
-    "chimpyswap",
+    "avadex",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
@@ -23,7 +23,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@chimpyswap-libs/chimpy-swap-core": "^0.1.0",
+    "@avadex-libs/avadex-swap-core": "^0.1.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",

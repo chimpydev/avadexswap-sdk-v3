@@ -813,9 +813,9 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@chimpyswap-libs/chimpy-swap-core@^0.1.0":
+"@avadex-libs/chimpy-swap-core@^0.1.0":
   version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@chimpyswap-libs/chimpy-swap-core/-/chimpy-swap-core-0.1.0.tgz#938939472d03e0eee41c3d00f41e6e41547f1a4e"
+  resolved "https://registry.yarnpkg.com/@avadex-libs/chimpy-swap-core/-/chimpy-swap-core-0.1.0.tgz#938939472d03e0eee41c3d00f41e6e41547f1a4e"
   integrity sha512-7/tGRDzBDgrBJnwiFJn4bcnHRCF/CE1zh/LqMrsPOLMJoEfUZYl3z3eGupyzH3JPMZGWTP1GMXFcRGQZHoU52w==
   dependencies:
     truffle "^5.1.41"
