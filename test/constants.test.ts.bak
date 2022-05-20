@@ -14,7 +14,7 @@ describe('constants', () => {
     // })
     //TODO: Replace with real ChimpyPair.json
     it('matches computed bytecode hash', () => {
-      expect(INIT_CODE_HASH).toEqual('0xcfcf24cfc50536b04eb8f7b60b50d72933c737e2148f585c86651345ed107e2f')
+      expect(INIT_CODE_HASH).toEqual('0x900ec688aaed2eb0cc1f64b8ffbeaf4674e555db3be8889afd8c245ad2ba784e')
     })
   })
 })
